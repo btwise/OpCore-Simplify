@@ -3,23 +3,21 @@
   <h3 align="center">OpCore Simplify</h3>
 
   <p align="center">
-    一个专为 Hackintosh 用户设计的 <a href="https://github.com/acidanthera/OpenCorePkg">OpenCore</a> EFI 自动化配置工具，通过标准化设置流程、自动硬件检测与补丁，极大简化 EFI 制作与维护，降低上手门槛，提升安装成功率。
-
+    A specialized tool that streamlines <a href="https://github.com/acidanthera/OpenCorePkg">OpenCore</a> EFI 自动化配置工具，通过标准化设置流程、自动硬件检测与补丁，极大简化 EFI 制作与维护，降低上手门槛，提升安装成功率。
     <br />
     <br />
-    <a href="#-功能特性">功能特性</a> •
-    <a href="#-使用方法">使用方法</a> •
-    <a href="#-参与贡献">参与贡献</a> •
-    <a href="#-许可证">许可证</a> •
-    <a href="#-致谢">致谢</a> •
-    <a href="#-联系方式">联系方式</a>
+    <a href="#-features">功能特性</a> •
+    <a href="#-how-to-use">使用方法</a> •
+    <a href="#-contributing">参与贡献</a> •
+    <a href="#-license">许可证</a> •
+    <a href="#-credits">致谢</a> •
+    <a href="#-contact">联系方式</a>
   </p>
   
   <p align="center">
     <a href="https://trendshift.io/repositories/15410" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15410" alt="lzhoang2801%2FOpCore-Simplify | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
   </p>
 </div>
-
 ## ✨ **功能特性**
 
 1. **全面支持硬件与 macOS 系统**  
