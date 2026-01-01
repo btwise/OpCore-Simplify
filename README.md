@@ -84,8 +84,6 @@
    - Windows版本解压 ZIP 压缩包至任意文件夹，运行主程序`OpCore-Simplify.exe`。
    - MacOS版本挂载DMG包文件，拖拽`OpCore-Simplify.app`到应用程序文件夹运行
 
-   ![下载界面](https://i.imgur.com/mcE7OSX.png)
-
 2. **运行 OpCore Simplify**:
    - **Windows** 下直接运行 `OpCore-Simplify.exe`
    - **macOS** 下挂载DMG包后，拖拽 `OpCore-Simplify.app` 到应用程序文件夹后运行
