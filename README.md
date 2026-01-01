@@ -165,7 +165,6 @@
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) 以及 [Kexts 数据](https://github.com/lzhoang2801/OpCore-Simplify/blob/main/Scripts/datasets/kext_data.py) —— 本项目核心基础
 - [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) --项目原始仓库
 - [SSDTTime](https://github.com/corpnewt/SSDTTime) —— SSDT 补丁工具集
-- [@rubentalstra](https://github.com/rubentalstra)：提供 GUI 原型设计与代码实现 [实现可视化界面 #471](https://github.com/lzhoang2801/OpCore-Simplify/pull/471)
 
 ## 📞 **联系方式**
 
