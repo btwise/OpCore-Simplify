@@ -3,7 +3,7 @@
   <h3 align="center">OpCore Simplify</h3>
 
   <p align="center">
-    A specialized tool that streamlines <a href="https://github.com/acidanthera/OpenCorePkg">OpenCore</a> EFI 自动化配置工具，通过标准化设置流程、自动硬件检测与补丁，极大简化 EFI 制作与维护，降低上手门槛，提升安装成功率。
+    一个通过自动化基本的设置过程并提供标准化的配置来简化 <a href="https://github.com/acidanthera/OpenCorePkg">OpenCore</a>的 EFI 配置生成工具，通过标准化设置流程、自动硬件检测与补丁，极大简化 EFI 制作与维护，降低上手门槛，提升安装成功率。
     <br />
     <br />
     <a href="#-features">功能特性</a> •
